@@ -16,7 +16,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/wheatek/Tab_10_Pro/device.mk)
 
 PRODUCT_DEVICE := Tab_10_Pro
-PRODUCT_NAME := omni_Tab_10_Pro
+PRODUCT_NAME := twrp_Tab_10_Pro
 PRODUCT_BRAND := Blackview
 PRODUCT_MODEL := Tab 10 Pro
 PRODUCT_MANUFACTURER := wheatek
