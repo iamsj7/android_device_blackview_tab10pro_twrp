@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_Tab_10_Pro.mk
+    $(LOCAL_DIR)/twrp_Tab_10_Pro.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_Tab_10_Pro-user \
-    omni_Tab_10_Pro-userdebug \
-    omni_Tab_10_Pro-eng
+    twrp_Tab_10_Pro-user \
+    twrp_Tab_10_Pro-userdebug \
+    twrp_Tab_10_Pro-eng
