@@ -1,6 +1,9 @@
-# TWRP device tree for Blackview Tab 10 Pro ??????????_V06_20211022 - ???????????_EEA_V1.4.9.1_S20211022 
+# TWRP device tree for Tablet Blackview Tab 10 Pro
 
-## MTK Helio P60 - MT6771_8788
+## Firmware version
+??????????_V06_20211022 - ???????????_EEA_V1.4.9.1_S20211022 
+
+MTK Helio P60 - MT6771_8788
 
 ### Specs: https://www.gsmarena.com/blackview_tab_10_pro-11591.php
 
@@ -29,7 +32,7 @@ export ALLOW_MISSING_DEPENDENCIES=true
 export LC_ALL=C
 export USE_NINJA=false
 . build/envsetup.sh
-lunch twrp_BV-eng
+lunch twrp_Tab_10_Pro-eng
 mka recoveryimage
 ```
 
