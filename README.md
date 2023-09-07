@@ -1,10 +1,11 @@
 # TWRP device tree for Tablet Blackview Tab 10 Pro
 
 ## Firmware version
-??????????
-EEA_TP717_V1.0_20210429V07 – tp717_dk_dk025_8768_r0_eea 11
+Tab10Pro_NEU_TP716_V1.0_20220803V05.zip -- Tab10Pro_NEU_TP716_V1.0_20220803V05 - TP716_DK_DK025P_8788_R0_V1.2.8_S220803
 
 MTK Helio P60 - MT6771_8788
+
+-------------------------
 
 ### Specs: https://www.gsmarena.com/blackview_tab_10_pro-11591.php
 
